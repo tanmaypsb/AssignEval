@@ -2,7 +2,7 @@
 
 ## 🌐 Live Demo
 
-**Live** [https://assign-eval-n4mk...vercel.app/](https://assign-eval-n4mkhc165-xaiden.vercel.app/)**
+**Live** [https://assign-eval-n4mk...vercel.app/](https://assign-eval-n4mkhc165-xaiden.vercel.app/)
 
 **AssignEval** is a frontend-only Assignment Evaluation System built
 using HTML, CSS, and vanilla JavaScript.
